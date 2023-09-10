@@ -1,0 +1,5 @@
+1. git working unix commands
+1. git --version
+2. git status
+3. git init
+
