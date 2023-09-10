@@ -2,4 +2,12 @@
 1. git --version
 2. git status
 3. git init
+4. git add . # working directory say stage area mi 
+              files aa gai hay aor in ka color green ho gia hay
+              now you can check git status.
+5. git log # shows all log history
+
+
+git config --global user.name "Rashid Iftikhar"
+git config --global user.email "ibraheemrashid3@gmail.com"
 
