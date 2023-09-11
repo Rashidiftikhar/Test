@@ -2,7 +2,7 @@
 1. git --version
 2. git status
 3. git init
-4. git commit -m "version1"
+4. git commit -m "version4"
 4. git add . # working directory say stage area mi 
               files aa gai hay aor in ka color green ho gia hay
               now you can check git status.
